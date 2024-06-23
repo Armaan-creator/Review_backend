@@ -2,7 +2,7 @@
 /dist
 /node_modules
 /build
-
+./.local.env
 # Logs
 logs
 *.log
